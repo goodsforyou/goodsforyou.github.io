@@ -1,11 +1,11 @@
 # Site
-name: "Teddy의 선물 블로그"
-title: "Teddy의 선물 블로그"
+name: "Taesani의 선물 블로그"
+title: "Taesani의 선물 블로그"
 description: "선물하기 좋은 선물을 고르고 골라서 소개하는 블로그입니다."
 logo: 'assets/images/logo3.png'
 favicon: 'assets/images/logo3.png'
 baseurl: /
-url: https://
+url: https://goodsforyou.github.io
 google_analytics: ''
 disqus: ''
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -15,8 +15,8 @@ permalink: /:title/
 # Authors
 authors:
   teddy:
-    name: Teddy 
-    display_name: Teddy    
+    name: Taesani 
+    display_name: Taesani    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: dream@fun-coding.org 
